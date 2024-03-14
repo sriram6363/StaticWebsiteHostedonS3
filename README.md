@@ -9,7 +9,6 @@ This repository contains the source code and files for a static website hosted o
 - [Deployment](#deployment)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -47,7 +46,3 @@ Contributions to this project are welcome! If you'd like to contribute:
 3. Submit a pull request with a clear description of your changes.
 
 For major changes, please open an issue first to discuss the proposed changes.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
